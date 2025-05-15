@@ -1,2 +1,2 @@
 # LangChain
-LangChain And RAG, Agents, StreamLit, LLMs
+LangChain, RAG, Agents, StreamLit, LLMs
